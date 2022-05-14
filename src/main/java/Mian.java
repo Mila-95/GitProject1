@@ -5,5 +5,6 @@ public class Mian {
         System.out.println("I got");
         System.out.println("I am Groot2");
         System.out.println("I am Groot12");
+        System.out.println("Hello world");
     }
 }
