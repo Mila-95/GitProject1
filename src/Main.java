@@ -1,7 +1,4 @@
-package main.java;
-
-public class Mian {
-    ///write your code here
+public class Main {
     public static void main(String[] args) {
         System.out.println("I got");
         System.out.println("I am Groot2");
@@ -9,7 +6,6 @@ public class Mian {
         System.out.println("Hello world");
 
         System.out.println("i am not confused");
-        System.out.println("hhhhh");
+        System.out.println("im not confused");
     }
-
 }
